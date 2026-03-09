@@ -1,0 +1,67 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "SPARK MAX [4]": {
+        "header": {
+          "open": true
+        }
+      },
+      "SPARK MAX [5]": {
+        "header": {
+          "open": true
+        }
+      },
+      "SPARK MAX [6]": {
+        "header": {
+          "open": true
+        }
+      },
+      "SPARK MAX [7]": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon SRX[1]": {
+        "header": {
+          "open": true
+        }
+      },
+      "Talon SRX[9]": {
+        "header": {
+          "open": true
+        }
+      },
+      "Victor SPX[11]": {
+        "header": {
+          "open": true
+        }
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/Modo Autônomo": "String Chooser"
+    }
+  },
+  "NetworkTables": {
+    "Persistent Values": {
+      "open": false
+    }
+  },
+  "NetworkTables Info": {
+    "Clients": {
+      "open": true
+    },
+    "Connections": {
+      "open": true
+    },
+    "Server": {
+      "Subscribers": {
+        "open": true
+      },
+      "open": true
+    },
+    "visible": true
+  }
+}
